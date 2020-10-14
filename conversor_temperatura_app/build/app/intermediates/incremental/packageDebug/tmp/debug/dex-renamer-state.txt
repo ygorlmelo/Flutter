@@ -1,0 +1,4 @@
+#Fri Sep 18 11:50:01 BRT 2020
+base.0=C\:\\Users\\Dell\\Documents\\PUC Minas\\Disciplinas\\LDDM\\conversor_temperatura_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
