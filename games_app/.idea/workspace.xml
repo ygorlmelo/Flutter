@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b56eeda1-fbe7-4c64-8295-a0befa8e9adc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_API_30_x86" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ijc7x0nTNurmf1wahL5uuYLWGC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\AndroidStudioProjects\games_app\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\AndroidStudioProjects\games_app\assets\sonds" />
+      <recent name="C:\Users\Dell\AndroidStudioProjects\games_app\assets\images" />
+      <recent name="C:\Users\Dell\AndroidStudioProjects\games_app\assets " />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b56eeda1-fbe7-4c64-8295-a0befa8e9adc" name="Default Changelist" comment="" />
+      <created>1602424277872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602424277872</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602426546706">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1602426546706" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602455950546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1602455950546" />
+    <state width="1323" height="271" key="GridCell.Tab.0.bottom" timestamp="1602470032662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="77" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1602455996501" />
+    <state width="1323" height="271" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602470032662" />
+    <state width="1323" height="271" key="GridCell.Tab.0.center" timestamp="1602470032661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="77" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1602455996501" />
+    <state width="1323" height="271" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602470032661" />
+    <state width="1323" height="271" key="GridCell.Tab.0.left" timestamp="1602470032661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="77" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1602455996500" />
+    <state width="1323" height="271" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602470032661" />
+    <state width="1323" height="271" key="GridCell.Tab.0.right" timestamp="1602470032662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="77" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1602455996501" />
+    <state width="1323" height="271" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602470032662" />
+    <state x="376" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1602455658452">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="376" y="236" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1602455658452" />
+  </component>
+</project>
